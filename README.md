@@ -5,9 +5,9 @@ The Assesment Repo
 The assesment can be found [here](https://www.notion.so/Challenges-dd89b4b620ff48868892764d035f6330)
 
 A live version of the Application can be found at:
-```
+
 http://34.67.211.177:4000/graphiql
-```
+
 To run the server locally you need to set up the required dependencies
 Do this by running
 ```
