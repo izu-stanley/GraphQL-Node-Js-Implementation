@@ -44,3 +44,5 @@ And the config file for the logs in winston.js in the config folder
 The application was deployed in a Docker Container in order to conform to the best practices laid out in the [12-Factor App](https://12factor.net/) and the Dockerfile is in the root folder. It is worthy of note that the log files were built in such a way that are persistent and even if the container is restarted, the log files arent lost.
 
 There are two logs: One gives information on who visited the api and when, the other gives information on the query entered. The logs can then be analysed to reveal further information
+
+An interesting project I have previously worked on can be found  at https://github.com/izu-stanley/Arbitrage-REST-API
